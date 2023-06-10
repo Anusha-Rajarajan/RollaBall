@@ -2,6 +2,8 @@
 
 ## Aim:
 
+To Roll a Ball using C# program in unity .
+
 ## Algorithm:
 
 1. File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (MiniGame)
@@ -92,8 +94,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 ## Output:
 
-![ss](https://github.com/Anusha-Rajarajan/RollaBall/assets/93427472/ca0c8ad8-c094-436f-8e49-fc573cc4c952)
-
+![a2](https://github.com/Anusha-Rajarajan/RollaBall/assets/93427472/242d43e4-13c0-4bf6-92ff-323f67913c1d)
 
 ## Result:
 Thus a C# program to Roll a Ball in unity is written and executed sucessfully.
